@@ -2,7 +2,7 @@
 
 Implementation of **U2T01: Adapting BERT for NLP Tasks**.
 
-This repository contains the scripts and notebooks used to adapt `bert-base` to four classical NLP tasks. The files for each task are organized in the `tasks_files` directory, while the corresponding fine-tuned models are published on Hugging Face.
+This repository contains the notebooks used to adapt `bert-base` to four classical NLP tasks. The files for each task are organized in the `tasks_files` directory, while the corresponding fine-tuned models are published on Hugging Face.
 
 ## Hugging Face Models
 
